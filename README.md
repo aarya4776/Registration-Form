@@ -89,7 +89,7 @@ Example layout:
 ✅ Example Output
 ✅ Student registered successfully!
 📋 Registered Students:
-ID: RA2411003011459, Name: AARYA C, Age: 19, Email: aarya4776@gmail.com, Course: B.Tech 
+ID: RA2411003011473, Name: AARYA C, Age: 19, Email: aarya4776@gmail.com, Course: B.Tech 
 
 🏁 Project Status
 
